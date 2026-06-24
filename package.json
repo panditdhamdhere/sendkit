@@ -1,0 +1,8 @@
+{
+  "name": "sendkit-workspace",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "packages/*"
+  ]
+}

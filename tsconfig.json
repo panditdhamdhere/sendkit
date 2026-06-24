@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "es2022",
+        "module": "esNext",
+        "moduleResolution": "Bundler",
+        "strict": true,
+        "types": [
+            "node"
+        ],
+        "skipLibCheck": true
+    }
+}
