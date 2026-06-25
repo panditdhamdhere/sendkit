@@ -67,4 +67,4 @@ program
 
 program.parseAsync(process.argv);
 
-// https://api.telegram.org/bot8837803803:AAHdBm-qqSycm-4Mnl9u9CsDnUrFDF8vvq0/getUpdates
+// https://api.telegram.org
